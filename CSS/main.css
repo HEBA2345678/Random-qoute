@@ -1,0 +1,13 @@
+body{
+    color: azure;
+    background-image: url("../image/Capture.png");
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hend{
+    display: flex;
+
+    background-color: rgba(7, 6, 6, 0.8);
+}
